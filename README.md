@@ -4,7 +4,8 @@ Simple, fast warp-based talking face from image and audio with no reference foot
 Inference time on cpu: around 0.2 seconds per phrase.
 
 
-###Demo: https://www.youtube.com/embed/7d77oR1cpjY
+###Demo: 
+https://www.youtube.com/embed/7d77oR1cpjY
 
 ### Installation:
 1- Clone https://github.com/maximmashkov1/instant_talking_portrait
