@@ -1,5 +1,6 @@
 # Instant talking portrait
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7d77oR1cpjY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[<iframe width="560" height="315" src="https://www.youtube.com/embed/7d77oR1cpjY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+](https://www.youtube.com/watch?v=7d77oR1cpjY)
 
 Simple, fast warp-based talking face from image and audio with no reference footage. Uses https://github.com/mikecokina/puppet-warp for image warping.
 Inference time on cpu: around 0.2 seconds per phrase.
